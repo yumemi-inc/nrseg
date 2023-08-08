@@ -1,9 +1,9 @@
 nrseg
 ===
-[![Go Reference](https://pkg.go.dev/badge/github.com/budougumi0617/nrseg.svg)](https://pkg.go.dev/github.com/budougumi0617/nrseg)
+[![Go Reference](https://pkg.go.dev/badge/github.com/yumemi-inc/nrseg.svg)](https://pkg.go.dev/github.com/yumemi-inc/nrseg)
 [![MIT License](http://img.shields.io/badge/license-MIT-blue.svg?style=flat-square)](LICENSE)
-[![test](https://github.com/budougumi0617/nrseg/workflows/test/badge.svg)](https://github.com/budougumi0617/nrseg/actions?query=workflow%3Atest)
-[![reviewdog](https://github.com/budougumi0617/nrseg/workflows/reviewdog/badge.svg)](https://github.com/budougumi0617/nrseg/actions?query=workflow%3Areviewdog)
+[![test](https://github.com/yumemi-inc/nrseg/workflows/test/badge.svg)](https://github.com/yumemi-inc/nrseg/actions?query=workflow%3Atest)
+[![reviewdog](https://github.com/yumemi-inc/nrseg/workflows/reviewdog/badge.svg)](https://github.com/yumemi-inc/nrseg/actions?query=workflow%3Areviewdog)
 
 ## Background
 https://docs.newrelic.com/docs/agents/go-agent/instrumentation/instrument-go-segments
@@ -156,10 +156,10 @@ app, err := newrelic.NewApplication(
 ## Installation
 
 ```
-$ go install github.com/budougumi0617/nrseg/cmd/nrseg
+$ go install github.com/yumemi-inc/nrseg/cmd/nrseg
 ```
 
-Built binaries are available on github releases. https://github.com/budougumi0617/nrseg/releases
+Built binaries are available on github releases. https://github.com/yumemi-inc/nrseg/releases
 
 ### MacOS
 If you want to install on MacOS, you can use Homebrew.
@@ -168,7 +168,7 @@ brew install budougumi0617/tap/nrseg
 ```
 
 ## Contribution
-1. Fork ([https://github.com/budougumi0617/nrseg/fork](https://github.com/budougumi0617/nrseg/fork))
+1. Fork ([https://github.com/yumemi-inc/nrseg/fork](https://github.com/yumemi-inc/nrseg/fork))
 2. Create a feature branch
 3. Commit your changes
 4. Rebase your local changes against the master branch
@@ -178,7 +178,7 @@ brew install budougumi0617/tap/nrseg
 
 ## License
 
-[MIT](https://github.com/budougumi0617/nrseg/blob/master/LICENSE)
+[MIT](https://github.com/yumemi-inc/nrseg/blob/master/LICENSE)
 
 ## Author
 [budougumi0617](https://github.com/budougumi0617)

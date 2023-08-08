@@ -1,4 +1,4 @@
-module github.com/budougumi0617/nrseg
+module github.com/yumemi-inc/nrseg
 
 go 1.15
 

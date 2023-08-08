@@ -3,7 +3,7 @@ package main
 import (
 	"os"
 
-	"github.com/budougumi0617/nrseg"
+	"github.com/yumemi-inc/nrseg"
 )
 
 var (

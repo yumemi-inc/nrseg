@@ -1,4 +1,4 @@
-module github.com/budougumi0617/nrseg/testdata/input
+module github.com/yumemi-inc/nrseg/testdata/input
 
 go 1.15
 

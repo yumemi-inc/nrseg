@@ -42,7 +42,7 @@ brews:
     # Template for the url which is determined by the given Token (github or gitlab)
     # Default for github is "https://github.com/<repo_owner>/<repo_name>/releases/download/{{ .Tag }}/{{ .ArtifactName }}"
     # Default for gitlab is "https://gitlab.com/<repo_owner>/<repo_name>/uploads/{{ .ArtifactUploadHash }}/{{ .ArtifactName }}"
-    url_template: "https://github.com/budougumi0617/nrseg/releases/download/{{ .Tag }}/{{ .ArtifactName }}"
+    url_template: "https://github.com/yumemi-inc/nrseg/releases/download/{{ .Tag }}/{{ .ArtifactName }}"
 
     # Git author used to commit to the repository.
     # Defaults are shown.
@@ -52,7 +52,7 @@ brews:
 
     # Your app's homepage.
     # Default is empty.
-    homepage: "https://github.com/budougumi0617/nrseg"
+    homepage: "https://github.com/yumemi-inc/nrseg"
 
     # Your app's description.
     # Default is empty.

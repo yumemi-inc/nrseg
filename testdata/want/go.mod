@@ -1,4 +1,4 @@
-module github.com/budougumi0617/nrseg/testdata/want
+module github.com/yumemi-inc/nrseg/testdata/want
 
 go 1.15
 
